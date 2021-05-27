@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ngocpham73/tem-repo/issues"
   },
-  "homepage": "https://github.com/ngocpham73/tem-repo#readme"
+  "homepage": "https://github.com/ngocpham73/tem-repo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
