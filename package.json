@@ -1,0 +1,20 @@
+{
+  "name": "Node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-name.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngocpham73/tem-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngocpham73/tem-repo/issues"
+  },
+  "homepage": "https://github.com/ngocpham73/tem-repo#readme"
+}
